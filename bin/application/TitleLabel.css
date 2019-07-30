@@ -1,0 +1,13 @@
+.label {
+-fx-font-size: 20px;
+-fx-font-weight: bold;
+-fx-text-alignment: center;
+-fx-min-width:30px;
+-fx-min-height:10px;	
+-fx-max-width:2000px;
+-fx-max-height:2000px;
+}
+
+.text {
+-fx-text-alignment: center;	
+}

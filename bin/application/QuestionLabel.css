@@ -1,0 +1,19 @@
+.root {
+}
+
+.label {
+-fx-border-width: 3;
+-fx-border-color:#75507b;
+-fx-background-color: #bbbbee;
+-fx-font-size: 16px;
+-fx-text-alignment: center;
+-fx-alignment: center;
+-fx-min-width:50px;
+-fx-min-height:30px;	
+-fx-max-width:2000px;
+-fx-max-height:2000px;
+}
+
+.text {
+-fx-text-alignment: center;	
+}
